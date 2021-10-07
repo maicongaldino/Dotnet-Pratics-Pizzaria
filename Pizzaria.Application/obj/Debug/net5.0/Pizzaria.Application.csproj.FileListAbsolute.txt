@@ -1,0 +1,17 @@
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\bin\Debug\net5.0\Pizzaria.Application.deps.json
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\bin\Debug\net5.0\Pizzaria.Application.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\bin\Debug\net5.0\ref\Pizzaria.Application.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\bin\Debug\net5.0\Pizzaria.Application.pdb
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\bin\Debug\net5.0\Pizzaria.Domain.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\bin\Debug\net5.0\Pizzaria.Persistence.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\bin\Debug\net5.0\Pizzaria.Domain.pdb
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\bin\Debug\net5.0\Pizzaria.Persistence.pdb
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\Pizzaria.Application.csproj.AssemblyReference.cache
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\Pizzaria.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\Pizzaria.Application.AssemblyInfoInputs.cache
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\Pizzaria.Application.AssemblyInfo.cs
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\Pizzaria.Application.csproj.CoreCompileInputs.cache
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\Pizzaria.Application.csproj.CopyComplete
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\Pizzaria.Application.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\ref\Pizzaria.Application.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Application\obj\Debug\net5.0\Pizzaria.Application.pdb

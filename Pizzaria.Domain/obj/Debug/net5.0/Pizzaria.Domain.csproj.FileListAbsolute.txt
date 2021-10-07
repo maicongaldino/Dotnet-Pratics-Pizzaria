@@ -1,0 +1,12 @@
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\bin\Debug\net5.0\Pizzaria.Domain.deps.json
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\bin\Debug\net5.0\Pizzaria.Domain.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\bin\Debug\net5.0\ref\Pizzaria.Domain.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\bin\Debug\net5.0\Pizzaria.Domain.pdb
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\obj\Debug\net5.0\Pizzaria.Domain.csproj.AssemblyReference.cache
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\obj\Debug\net5.0\Pizzaria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\obj\Debug\net5.0\Pizzaria.Domain.AssemblyInfoInputs.cache
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\obj\Debug\net5.0\Pizzaria.Domain.AssemblyInfo.cs
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\obj\Debug\net5.0\Pizzaria.Domain.csproj.CoreCompileInputs.cache
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\obj\Debug\net5.0\Pizzaria.Domain.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\obj\Debug\net5.0\ref\Pizzaria.Domain.dll
+E:\Dotnet-Pratics\pizzaria\Pizzaria.Domain\obj\Debug\net5.0\Pizzaria.Domain.pdb
